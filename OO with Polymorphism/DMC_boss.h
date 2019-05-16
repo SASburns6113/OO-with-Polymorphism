@@ -7,7 +7,7 @@ class DMC_boss
 public:
 	DMC_boss();
 	
-	void Speech(string theBattleText);
+	void approach(string theApproachingText);
 
 	~DMC_boss();
 };
