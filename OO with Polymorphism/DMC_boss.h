@@ -9,6 +9,8 @@ public:
 	
 	void approach(string theApproachingText);
 
+	void attack(string attack);
+
 	~DMC_boss();
 };
 
